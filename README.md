@@ -1,8 +1,9 @@
-# Jungle's Trap Game
+# Jungle's Trap Game 
+(README NYA MASIH SAMA KAYA PUNYA KATING :v)
 
 Member :
 1. Iffah Wahyu Roshifa	(05111840000018)
-2. Khofifah Nurlaela	(051118400000)
+2. Khofifah Nurlaela	(051118400000) (Namamu bener g..?)
 
 ## Description
 
