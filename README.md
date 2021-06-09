@@ -3,7 +3,7 @@
 
 Member :
 1. Iffah Wahyu Roshifa	(05111840000018)
-2. Khofifah Nurlaela	(051118400000) (Namamu bener g..?)
+2. Khofifah Nurlaela	(05111840000025)
 
 ## Description
 
