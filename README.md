@@ -1,5 +1,4 @@
 # Jungle's Trap Game 
-(README NYA MASIH SAMA KAYA PUNYA KATING :v)
 
 Member :
 1. Iffah Wahyu Roshifa	(05111840000018)
@@ -86,6 +85,3 @@ g++ "jungle's_trap.cpp" -o game
 
 7. Your live can be reduced if you move back to your previous movement. When your live is 0, you lose and out from the game.
    When you choose a movement that crosses the forest boundary, you will out from the game.
-
-	![Gambar 9](/Image/9.PNG)
-	
