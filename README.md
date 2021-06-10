@@ -71,9 +71,11 @@ g++ "jungle's_trap.cpp" -o game
 4. Choose your movement according to the instruction under the jungle. Do it step by step, one input for one movement.
    For example : You choose to move right, so you should type D. Your * will move to the next column.
    Do it until you reach the @ so you can out from the jungle and get score. 
+   
 	![Gambar 3](/Image/3.PNG)
 
 5. After that, you can move to the next level. In this game there are 5 level. The number of column is increasing for each level.
+
 	![Gambar 4](/Image/4.PNG)
 	![Gambar 5](/Image/5.PNG)
 	![Gambar 6](/Image/6.PNG)
